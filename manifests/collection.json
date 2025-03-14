@@ -1,0 +1,13 @@
+{
+  "id" : "https://tarthur-TIFF.github.io/tes2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tarthur-TIFF/tes2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tarthur-TIFF.github.io/tes2/manifests/manifest.json",
+    "label" : "Historical TIFF Posters"
+  } ]
+}
